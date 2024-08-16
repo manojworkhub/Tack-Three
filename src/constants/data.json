@@ -1,0 +1,42 @@
+[
+  {
+    "logo": "https://i.ibb.co/HBMhwXb/layer-group-svgrepo-com.png",
+    "title": "Basic Algorithm",
+    "lesson": "25 Lessons",
+    "start_date": "27 Jan, 2023",
+    "lessons_completed": "10/25 (48%)",
+    "duration": "14h 38m 56s"
+},
+{
+    "logo": "https://i.ibb.co/6NSCSQ0/code-svgrepo-com.png",
+    "title": "Web Development",
+    "lesson": "45 Lessons",
+    "start_date": "23 Feb, 2023",
+    "lessons_completed": "40/45 (97%)",
+    "duration": "36h 30m 00s"
+},
+{
+   "logo": "https://i.ibb.co/J7KgDMW/grid-svgrepo-com.png",
+    "title": "Basic Data science",
+    "lesson": "37 Lessons",
+    "start_date": "14 Jan, 2023",
+    "lessons_completed": "9/37 (40%)",
+    "duration": "37h 00m 00s"
+},
+{
+   "logo":"https://i.ibb.co/7CsRt0G/monitor-svgrepo-com.png",
+    "title": "UI/UX Design",
+    "lesson": "32 Lessons",
+    "start_date": "29 Feb, 2023",
+    "lessons_completed": "26/32 (48%)",
+    "duration": "16h 40m 50s"
+},
+{
+   "logo": "https://i.ibb.co/YDJ5KPR/trello-svgrepo-com.png",
+    "title": "Project management",
+    "lesson": "19 Lessons",
+    "start_date": "27 Jan, 2023",
+    "lessons_completed": "14/19 (89%)",
+    "duration": "13h 20m 00s"
+}
+]
